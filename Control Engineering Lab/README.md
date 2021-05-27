@@ -2,6 +2,10 @@
 
 _Note: In control Engineering lab, we did not use any specific software._ 
 
+ Submitted By - Kritika Srivastava
+
+Roll Number - 182042
+
 Here is the final lab report - 
 
 [182042 Control Engineering Lab file](https://docs.google.com/document/d/1pnYEdLzmRy_AbZz95KgCnR9Vx93VsMhOMwUirMgHij8/edit?usp=sharing)
@@ -20,3 +24,7 @@ Here is the final lab report -
 |   06|To study the digital control system design of P, PI, PID Controller.        |
 |     07  | To study the Open-loop response of a process.      |
 |   08| To study and plot the  characteristics of voltage sensitive bridge by using AC supply.        |
+
+
+#
+Feel free to 🌟 this repository if you find it helpful.
