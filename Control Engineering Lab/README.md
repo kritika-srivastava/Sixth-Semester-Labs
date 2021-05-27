@@ -23,8 +23,12 @@ Here is the final lab report -
 |   05   | To study the DC Servomotor and to obtain the armature-controlled Torque-speed characteristics.      |
 |   06|To study the digital control system design of P, PI, PID Controller.        |
 |     07  | To study the Open-loop response of a process.      |
+<<<<<<< HEAD
 |   08| To study and plot the  characteristics of voltage sensitive bridge by using AC supply.        |
 
 
 #
 Feel free to 🌟 this repository if you find it helpful.
+=======
+|   08| To study and plot the  characteristics of voltage sensitive bridge by using AC supply.        |
+>>>>>>> 2daada236d8cd12a3c5c578c238d264a0a9abc63
