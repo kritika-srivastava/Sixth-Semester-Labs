@@ -9,8 +9,3 @@
 4. For computing Admittance or Impedance Matrix, just we need to run "ybusppg.m" only.
 
 5. For computing Bus Voltage and Angles, just we need to run "gaussppg.m" only.
-
-
-            There may be a lot of mistakes. If anyone could find out some, please inform me. I'll will be very thankful.
-                                                                                                     Email: pravirajpg@gmail.com
-                                                                                                              Thank you.                                     
